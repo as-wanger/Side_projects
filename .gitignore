@@ -1,0 +1,21 @@
+/*.coverage
+/*/*.coverage
+
+/.idea/
+
+/yt_captions/.pytest_cache/
+/yt_captions/tests/.pytest_cache/
+
+
+# some other files
+/yt_captions/try api.py
+
+/0_try_it.py
+
+/99_104_crawler.py
+/104python_crawler
+/104python_crawler.csv
+/104python_crawler.xlsx
+/little sample.py
+/selenium_104.ipynb
+/selenium_test.ipynb
